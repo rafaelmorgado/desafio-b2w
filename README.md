@@ -1,7 +1,4 @@
 # desafio-b2w
-
-[![Build Status](https://travis-ci.org/codecentric/springboot-sample-app.svg?branch=master)](https://travis-ci.org/codecentric/springboot-sample-app)
-
 Desafio de back-end da B2W com [Spring Boot](http://projects.spring.io/spring-boot/).
 
 ## Requerimentos
